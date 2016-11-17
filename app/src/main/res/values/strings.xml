@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Memorias</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_youtube">Youtube</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
